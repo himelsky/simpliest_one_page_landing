@@ -1,2 +1,2 @@
 # simpliest_one_page_landing
-use you want
+use like you want
